@@ -106,3 +106,26 @@ transition: 0.5s;
 article:hover{
     transform: scale(1.05);
 }
+
+.photo-1{
+    position: absolute;
+    right: 100px;
+    top: 300px;
+    transition: 0.5s;
+}
+
+.photo-2{
+    position: absolute;
+    top:360px;
+    right: 200px;
+    transition: 0.5s;
+}
+
+.photo-1:hover{
+    transform: scale(1.2);
+}
+
+.photo-2:hover{
+    transform: scale(1.2);
+}
+
